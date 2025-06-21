@@ -12,7 +12,7 @@
 
 ## 📌 Featured Projects
 - [Heart Attack Prediction Dashboard]()
-- [Salary Prediction using Regression]()
+- [Bike-Rentals Model Training using Azure]()
 
 ## 📫 Let's Connect
 - LinkedIn: [www.linkedin.com/in/asanda-ndlela-4006b82a8]
