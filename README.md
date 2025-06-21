@@ -5,7 +5,7 @@
 📁 Check out my latest projects below!
 
 ## 🔧 Tools & Skills
-- Python(Pandas, NumPy , Matplotlib , skicit-learn , Seaborn)
+- Python(Pandas, NumPy , Matplotlib , Scikit-learn , Seaborn)
 - Power BI, Microsoft Excel
 - SQL, SAS , GenStat
 - Machine Learning (Training models)
