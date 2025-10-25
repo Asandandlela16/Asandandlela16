@@ -6,9 +6,9 @@
 
 ## 🔧 Tools & Skills
 - Python(Pandas, NumPy , Matplotlib , Scikit-learn , Seaborn)
-- Power BI, Microsoft Excel
+- Power BI(DAX , Power query), Microsoft Excel(Pivot tables, Analysis formulas, VBA)
 - SQL, SAS , GenStat
-- Machine Learning (Training models)
+- Machine Learning , Feature engeneering, OCI, Azure, Jupyter, 
 
 
 ## 📫 Let's Connect
