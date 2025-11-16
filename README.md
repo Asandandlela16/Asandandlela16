@@ -1,15 +1,22 @@
 # Hi, I'm Asanda 👋
 
-🎓 Final-year Applied Mathematics & Statistics student  at UKZN
-📊 Passionate about Data Science, Python, Power BI, and Statistical Analysis  
+🎓 Applied Mathematics & Statistics graduand at UKZN.
+📊 Passionate about Data Science and Machine Learning. 
 📁 Check out my latest projects.
 
 ## 🔧 Tools & Skills
-- Python(Pandas, NumPy , Matplotlib , Scikit-learn , Seaborn)
-- Power BI(DAX , Power query), Microsoft Excel(Pivot tables, Analysis formulas, VBA)
-- SQL, SAS , GenStat
-- Machine Learning , Feature engeneering, OCI, Azure, Jupyter, 
+#Technical Skills;
 
+Programming & Tools: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Scipy), SQL, Excel, Power BI, SAS
+Statistics & Math: Descriptive & inferential stats, regression, probability, hypothesis testing, time series
+Machine Learning: Supervised/unsupervised learning, NLP basics, model evaluation
+Data Handling: Cleaning, preprocessing, feature engineering, ETL pipelines
+
+#Business & Soft Skills ;
+
+Translate business requirements into analytics solutions
+KPI reporting, A/B testing, data storytelling
+Critical thinking, communication, teamwork, adaptability
 
 ## 📫 Let's Connect
 - LinkedIn: [www.linkedin.com/in/asanda-ndlela-4006b82a8]
